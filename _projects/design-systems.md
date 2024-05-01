@@ -11,6 +11,7 @@ alt: 'Design Systems'
 image-hero: /assets/images/projects/design-systems-hero.jpg
 leadership:
   - name: Yasaman Roostaeian
+    github-handle:
     role: Product Manager
     links:
       slack: 'https://hackforla.slack.com/team/U033GFQ1UQM'
@@ -23,6 +24,7 @@ leadership:
       github: 'https://github.com/rachelita2'
     picture: 'https://avatars.githubusercontent.com/rachelita2'
   - name: Sandra Berjan
+    github-handle: 
     role: Lead Content Designer
     links:
       slack: 'https://hackforla.slack.com/team/U03753VQBSR'
@@ -47,6 +49,7 @@ leadership:
       github: 'https://github.com/winoue90'
     picture: 'https://avatars.githubusercontent.com/winoue90'
   - name: Faezeh Faezipour
+    github-handle: 
     role: UX Researcher
     links:
       slack: 'https://hackforla.slack.com/team/U04AT8KU5CY'
